@@ -12,7 +12,6 @@ const commons = z.object({
 	state: z.string(),
 	creatorId: z.string().uuid(),
 	sortOrder: z.number(),
-	// TODO(@alii): Find out the type for these arrays
 	issueCountHistory: z.array(z.unknown()),
 	completedIssueCountHistory: z.array(z.unknown()),
 	scopeHistory: z.array(z.unknown()),
@@ -20,7 +19,6 @@ const commons = z.object({
 	slackIssueComments: z.boolean(),
 	slackIssueStatuses: z.boolean(),
 	teamIds: z.array(z.string().uuid()),
-	// TODO(@alii): Find out this type
 	memberIds: z.array(z.unknown()),
 });
 

@@ -45,7 +45,7 @@ export default api({
 
 		const client = new LinearClient({
 			apiKey: api,
-			headers: {'User-Agent': 'github.com/alii/linear-discord-serverless'},
+			headers: {'User-Agent': 'github.com/kristencheung/linear-discord-serverless'},
 		});
 
 		// const body = bodySchema.parse(req.body);
