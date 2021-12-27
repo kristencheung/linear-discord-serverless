@@ -4,7 +4,7 @@
 
 ### Installation
 
-Please visit [lds.alistair.cloud](https://lds.alistair.cloud) which documents the setup. In short, we form a URL that contains the Discord webhook ID and Token, and use that as our linear URL. That way we can use the body with ID and Token in a stateless environment.
+Please visit [ldsstation.app](https://ldsstation.app) which documents the setup. In short, we form a URL that contains the Discord webhook ID and Token, and use that as our linear URL. That way we can use the body with ID and Token in a stateless environment.
 
 ### Video Guide
 
