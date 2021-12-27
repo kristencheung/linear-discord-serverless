@@ -4,7 +4,7 @@
 
 ### Installation
 
-Please visit [linear-discord-serverless-virid.vercel.app](linear-discord-serverless-virid.vercel.app) which documents the setup. In short, we form a URL that contains the Discord webhook ID and Token, and use that as our linear URL. That way we can use the body with ID and Token in a stateless environment.
+Please visit [https://linear-discord-serverless-pink.vercel.app/](https://linear-discord-serverless-pink.vercel.app/) which documents the setup. In short, we form a URL that contains the Discord webhook ID and Token, and use that as our linear URL. That way we can use the body with ID and Token in a stateless environment.
 
 ### Video Guide
 

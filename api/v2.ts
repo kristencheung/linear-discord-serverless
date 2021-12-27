@@ -23,7 +23,7 @@ const enum Colors {
 }
 
 const avatar = 'https://i.imgur.com/SICZmw8.png';
-const footer = 'Linear App • ⚡ lds.alistair.cloud';
+const footer = 'Linear App • ⚡ station';
 
 export default api({
 	async POST(req) {
